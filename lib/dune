@@ -2,4 +2,9 @@
  (name haikan)
  (public_name haikan)
  (libraries
-  (re_export higher)))
+  (re_export higher)
+  haikan.pre
+  haikan.control
+  haikan.data
+  haikan.std
+  haikan.ext))

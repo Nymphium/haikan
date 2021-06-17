@@ -1,0 +1,4 @@
+(library
+ (name std)
+ (public_name haikan.std)
+ (libraries higher haikan.pre haikan.control haikan.data))

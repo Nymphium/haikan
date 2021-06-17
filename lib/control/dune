@@ -1,0 +1,4 @@
+(library
+ (name control)
+ (public_name haikan.control)
+ (libraries higher))
